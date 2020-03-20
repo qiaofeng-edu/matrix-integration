@@ -1,7 +1,12 @@
 import React from "react"
+import Math from "../components/katex";
 
 const Q1 = () => (
-  <div>Question 1</div>
+  <div>
+      <Math 
+      tex={"\\alpha=a^2"}
+      />
+  </div>
 )
 
 export default Q1
