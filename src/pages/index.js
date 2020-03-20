@@ -1,12 +1,15 @@
 import React from "react"
-import Ques1 from './question1';
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import 'katex/dist/katex.css'
+import "katex/dist/katex.css"
 
 const IndexPage = () => (
   <Layout>
-    <Ques1 />
+    <div>fqiao@lesley.edu</div>
+    <div>
+      <Link to="/matrix-integration">Matrix and Integration</Link>
+    </div>
   </Layout>
 )
 

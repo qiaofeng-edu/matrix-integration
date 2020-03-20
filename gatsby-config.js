@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Matrix and integration`,
+    title: `feng edu`,
     description: ``,
     author: `@fqiaoqiao-edu`,
   },
