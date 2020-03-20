@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),l=t("Wbzz"),r=t("Bl7J");t("fNIL");n.default=function(){return i.a.createElement(r.a,null,i.a.createElement("div",null,"fqiao@lesley.edu"),i.a.createElement("div",null,i.a.createElement(l.Link,{to:"/matrix-integration"},"Matrix and Integration")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-47b2231f450a119fc9a8.js.map
